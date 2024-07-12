@@ -1,0 +1,85 @@
+[18-Jan-2024 08:39:24 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/home.php on line 4
+[18-Jan-2024 09:08:18 UTC] PHP Parse error:  Unclosed '{' on line 75 in /home2/xsmdaevu/public_html/admin/pages/mac.php on line 150
+[18-Jan-2024 09:53:44 UTC] PHP Parse error:  Unclosed '{' on line 78 in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 171
+[18-Jan-2024 10:17:21 UTC] PHP Parse error:  Unclosed '{' on line 70 in /home2/xsmdaevu/public_html/admin/pages/accounts.php on line 108
+[18-Jan-2024 11:03:47 UTC] PHP Warning:  Undefined variable $conn in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 65
+[18-Jan-2024 11:03:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/xsmdaevu/public_html/admin/pages/components/header.php:65
+Stack trace:
+#0 /home2/xsmdaevu/public_html/admin/pages/feedbacks.php(32): include()
+#1 {main}
+  thrown in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 65
+[18-Jan-2024 11:03:49 UTC] PHP Warning:  Undefined variable $conn in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 65
+[18-Jan-2024 11:03:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/xsmdaevu/public_html/admin/pages/components/header.php:65
+Stack trace:
+#0 /home2/xsmdaevu/public_html/admin/pages/feedbacks.php(32): include()
+#1 {main}
+  thrown in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 65
+[18-Jan-2024 11:05:47 UTC] PHP Warning:  include(../../php/userconfig.php): Failed to open stream: No such file or directory in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 64
+[18-Jan-2024 11:05:47 UTC] PHP Warning:  include(): Failed opening '../../php/userconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 64
+[18-Jan-2024 11:05:47 UTC] PHP Warning:  Undefined variable $conn in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 66
+[18-Jan-2024 11:05:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/xsmdaevu/public_html/admin/pages/components/header.php:66
+Stack trace:
+#0 /home2/xsmdaevu/public_html/admin/pages/feedbacks.php(32): include()
+#1 {main}
+  thrown in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 66
+[18-Jan-2024 11:11:27 UTC] PHP Warning:  Undefined variable $conn in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 75
+[18-Jan-2024 11:11:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/xsmdaevu/public_html/admin/pages/components/header.php:75
+Stack trace:
+#0 /home2/xsmdaevu/public_html/admin/pages/feedbacks.php(32): include()
+#1 {main}
+  thrown in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 75
+[18-Jan-2024 11:12:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 3
+[18-Jan-2024 11:13:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 3
+[18-Jan-2024 11:13:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 85
+[18-Jan-2024 11:17:14 UTC] PHP Warning:  Undefined variable $conn in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 76
+[18-Jan-2024 11:17:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/xsmdaevu/public_html/admin/pages/components/header.php:76
+Stack trace:
+#0 /home2/xsmdaevu/public_html/admin/pages/feedbacks.php(32): include()
+#1 {main}
+  thrown in /home2/xsmdaevu/public_html/admin/pages/components/header.php on line 76
+[18-Jan-2024 12:05:42 UTC] PHP Parse error:  Unclosed '{' on line 80 in /home2/xsmdaevu/public_html/admin/pages/feedbacks.php on line 127
+[18-Jan-2024 12:06:03 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/feedbacks.php on line 6
+[18-Jan-2024 14:16:18 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 6
+[18-Jan-2024 15:24:57 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/feedbacks.php on line 6
+[18-Jan-2024 16:28:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 214
+[18-Jan-2024 16:28:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 217
+[18-Jan-2024 16:32:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 214
+[18-Jan-2024 16:32:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 217
+[18-Jan-2024 16:32:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 214
+[18-Jan-2024 16:32:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 217
+[18-Jan-2024 16:33:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 214
+[18-Jan-2024 16:33:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 217
+[15-Feb-2024 11:56:46 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:46 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:46 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:46 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:46 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:46 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:46 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:46 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:46 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:59 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:59 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:59 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:59 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:59 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:59 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:59 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:59 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 11:56:59 UTC] PHP Warning:  Undefined array key "id" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 108
+[15-Feb-2024 14:28:18 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/feedbacks.php on line 6
+[15-Feb-2024 14:29:19 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/mac.php on line 6
+[15-Feb-2024 14:30:19 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 6
+[19-Feb-2024 04:01:07 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/home.php on line 4
+[20-Feb-2024 03:50:08 UTC] PHP Warning:  Undefined variable $total_records in /home2/xsmdaevu/public_html/admin/pages/home.php on line 52
+[20-Feb-2024 03:53:58 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/feedbacks.php on line 6
+[05-Mar-2024 17:26:35 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/home.php on line 4
+[03-May-2024 06:15:13 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/mac.php on line 6
+[03-May-2024 08:09:26 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/mac.php on line 6
+[03-May-2024 09:21:33 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/mac.php on line 6
+[04-May-2024 07:31:02 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/accounts.php on line 6
+[05-May-2024 01:47:56 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/mac.php on line 6
+[05-May-2024 02:15:49 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/home.php on line 4
+[05-May-2024 03:47:23 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/home.php on line 4
+[05-May-2024 06:01:26 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/plants.php on line 6
+[07-May-2024 09:54:52 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/pages/home.php on line 4

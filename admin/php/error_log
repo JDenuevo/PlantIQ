@@ -1,0 +1,68 @@
+[18-Jan-2024 15:45:08 UTC] PHP Warning:  Undefined array key "plant_id" in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 10
+[18-Jan-2024 15:45:08 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:45:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:46:36 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:46:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:46:51 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:46:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:51:09 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:51:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:51:28 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:51:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:52:53 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:52:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:54:42 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 18
+[18-Jan-2024 15:54:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 18
+[18-Jan-2024 15:57:00 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 15:57:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:03:43 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:03:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:04:44 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:04:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:07:36 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:07:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:10:27 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:10:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:13:17 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:13:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:26:35 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:26:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:26:47 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:26:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:27:19 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:27:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:27:23 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:27:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:27:30 UTC] PHP Warning:  Undefined variable $row in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:27:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xsmdaevu/public_html/admin/php/edit_plant.php on line 15
+[18-Jan-2024 16:43:26 UTC] PHP Warning:  Undefined array key "plant_id" in /home2/xsmdaevu/public_html/admin/php/add_plant.php on line 8
+[18-Jan-2024 16:45:07 UTC] PHP Warning:  Undefined array key "plant_id" in /home2/xsmdaevu/public_html/admin/php/add_plant.php on line 8
+[18-Jan-2024 16:46:11 UTC] PHP Warning:  Undefined array key "plant_id" in /home2/xsmdaevu/public_html/admin/php/add_plant.php on line 8
+[15-Feb-2024 12:02:02 UTC] PHP Warning:  Undefined array key "plant_id" in /home2/xsmdaevu/public_html/admin/php/add_plant.php on line 8
+[15-Feb-2024 12:02:50 UTC] PHP Warning:  Undefined array key "plant_id" in /home2/xsmdaevu/public_html/admin/php/add_plant.php on line 8
+[15-Feb-2024 12:02:59 UTC] PHP Warning:  Undefined array key "plant_id" in /home2/xsmdaevu/public_html/admin/php/add_plant.php on line 8
+[27-Apr-2024 10:42:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_PASSWORD" in /home2/xsmdaevu/public_html/admin/php/admin_signin.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/xsmdaevu/public_html/admin/php/admin_signin.php on line 46
+[27-Apr-2024 10:44:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_PASSWORD" in /home2/xsmdaevu/public_html/admin/php/admin_signin.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/xsmdaevu/public_html/admin/php/admin_signin.php on line 46
+[27-Apr-2024 10:45:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_PASSWORD" in /home2/xsmdaevu/public_html/admin/php/admin_signin.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/xsmdaevu/public_html/admin/php/admin_signin.php on line 49
+[27-Apr-2024 10:46:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_PASSWORD" in /home2/xsmdaevu/public_html/admin/php/admin_signin.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/xsmdaevu/public_html/admin/php/admin_signin.php on line 49
+[27-Apr-2024 10:46:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_PASSWORD" in /home2/xsmdaevu/public_html/admin/php/admin_signin.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/xsmdaevu/public_html/admin/php/admin_signin.php on line 49
+[27-Apr-2024 10:46:37 UTC] PHP Fatal error:  Uncaught ValueError: Invalid bcrypt cost parameter specified: 110 in /home2/xsmdaevu/public_html/admin/php/admin_signin.php:49
+Stack trace:
+#0 /home2/xsmdaevu/public_html/admin/php/admin_signin.php(49): password_hash()
+#1 {main}
+  thrown in /home2/xsmdaevu/public_html/admin/php/admin_signin.php on line 49

@@ -1,0 +1,44 @@
+[18-Nov-2023 03:18:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/xsmdaevu/public_html/app/php/userconfig.php on line 8
+[18-Nov-2023 03:18:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/xsmdaevu/public_html/app/php/userconfig.php on line 8
+[18-Nov-2023 03:21:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xsmdaevu_userplantiq'@'localhost' to database 'xsmdaevu_plantiq' in /home2/xsmdaevu/public_html/app/php/userconfig.php on line 8
+[19-Nov-2023 14:44:39 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[19-Nov-2023 14:44:39 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[22-Nov-2023 08:48:18 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[22-Nov-2023 08:48:18 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[22-Nov-2023 09:43:33 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[22-Nov-2023 09:43:33 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[22-Nov-2023 09:43:33 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[22-Nov-2023 09:43:33 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[22-Nov-2023 10:05:36 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[22-Nov-2023 10:05:36 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[22-Nov-2023 10:10:13 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[22-Nov-2023 10:10:13 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[22-Nov-2023 10:10:56 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[22-Nov-2023 10:10:56 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[22-Nov-2023 13:15:42 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[22-Nov-2023 13:15:42 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[22-Nov-2023 13:15:42 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[22-Nov-2023 13:15:42 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[24-Nov-2023 23:45:43 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[24-Nov-2023 23:45:43 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[01-Dec-2023 15:59:40 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[01-Dec-2023 15:59:40 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[02-Dec-2023 10:15:44 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[02-Dec-2023 10:15:44 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[03-Dec-2023 15:15:18 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[03-Dec-2023 15:15:18 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[03-Dec-2023 15:15:49 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[03-Dec-2023 15:15:49 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[03-Dec-2023 15:23:28 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[03-Dec-2023 15:23:28 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[03-Dec-2023 15:23:40 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[03-Dec-2023 15:23:40 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[03-Dec-2023 15:28:34 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[03-Dec-2023 15:28:34 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[03-Dec-2023 15:36:52 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[03-Dec-2023 15:36:52 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[03-Dec-2023 15:36:52 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[03-Dec-2023 15:36:52 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[03-Dec-2023 15:37:00 UTC] PHP Warning:  Undefined array key "fnbkn" in /home2/xsmdaevu/public_html/app/index.php on line 49
+[03-Dec-2023 15:37:00 UTC] PHP Warning:  Undefined array key "qbtuyqug" in /home2/xsmdaevu/public_html/app/index.php on line 54
+[05-Mar-2024 18:22:39 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home2/xsmdaevu/public_html/app/index.php on line 49

@@ -1,0 +1,28 @@
+[07-May-2024 12:08:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xsmdaevu_administratorplantiq'@'localhost' to database 'xsmdaevu_dishcovery' in /home2/xsmdaevu/public_html/admin/api_dishcovery/dbconfig.php on line 8
+[07-May-2024 12:08:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xsmdaevu_administratorplantiq'@'localhost' to database 'xsmdaevu_dishcovery' in /home2/xsmdaevu/public_html/admin/api_dishcovery/dbconfig.php on line 8
+[07-May-2024 12:10:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xsmdaevu_administratorplantiq'@'localhost' to database 'xsmdaevu_dishcovery' in /home2/xsmdaevu/public_html/admin/api_dishcovery/dbconfig.php on line 8
+[07-May-2024 12:13:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xsmdaevu_administratorplantiq'@'localhost' to database 'xsmdaevu_dishcovery' in /home2/xsmdaevu/public_html/admin/api_dishcovery/dbconfig.php on line 8
+[07-May-2024 12:21:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xsmdaevu_userplantiq'@'localhost' to database 'xsmdaevu_dishcovery' in /home2/xsmdaevu/public_html/admin/api_dishcovery/dbconfig.php on line 8
+[07-May-2024 12:21:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xsmdaevu_administratorplantiq'@'localhost' to database 'xsmdaevu_dishcovery' in /home2/xsmdaevu/public_html/admin/api_dishcovery/dbconfig.php on line 8
+[07-May-2024 12:22:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xsmdaevu_administratorplantiq'@'localhost' to database 'xsmdaevu_dishcovery' in /home2/xsmdaevu/public_html/admin/api_dishcovery/dbconfig.php on line 8
+[07-May-2024 12:24:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xsmdaevu_administratorplantiq'@'localhost' to database 'xsmdaevu_dishcovery' in /home2/xsmdaevu/public_html/admin/api_dishcovery/dbconfig.php on line 8
+[07-May-2024 12:24:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xsmdaevu_administratorplantiq'@'localhost' to database 'xsmdaevu_dishcovery' in /home2/xsmdaevu/public_html/admin/api_dishcovery/dbconfig.php on line 8
+[07-May-2024 12:27:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xsmdaevu_administratorplantiq'@'localhost' to database 'xsmdaevu_dishcovery' in /home2/xsmdaevu/public_html/admin/api_dishcovery/dbconfig.php on line 8
+[07-May-2024 12:28:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home2/xsmdaevu/public_html/admin/api_dishcovery/sign_in.php on line 42
+[07-May-2024 12:28:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home2/xsmdaevu/public_html/admin/api_dishcovery/sign_in.php on line 81
+[07-May-2024 12:28:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home2/xsmdaevu/public_html/admin/api_dishcovery/sign_in.php on line 42
+[07-May-2024 12:28:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home2/xsmdaevu/public_html/admin/api_dishcovery/sign_in.php on line 81
+[07-May-2024 13:25:05 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/api_dishcovery/create_group.php on line 6
+[07-May-2024 13:25:05 UTC] PHP Warning:  Undefined array key "group_name" in /home2/xsmdaevu/public_html/admin/api_dishcovery/create_group.php on line 7
+[07-May-2024 13:25:32 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/api_dishcovery/create_group.php on line 6
+[07-May-2024 13:25:32 UTC] PHP Warning:  Undefined array key "group_name" in /home2/xsmdaevu/public_html/admin/api_dishcovery/create_group.php on line 7
+[07-May-2024 13:27:15 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/api_dishcovery/create_group.php on line 6
+[07-May-2024 13:27:15 UTC] PHP Warning:  Undefined array key "group_name" in /home2/xsmdaevu/public_html/admin/api_dishcovery/create_group.php on line 7
+[07-May-2024 21:31:29 Asia/Manila] PHP Warning:  Undefined array key "recipe_name" in /home2/xsmdaevu/public_html/admin/api_dishcovery/add_recipe.php on line 6
+[07-May-2024 21:31:29 Asia/Manila] PHP Warning:  Undefined array key "category_name" in /home2/xsmdaevu/public_html/admin/api_dishcovery/add_recipe.php on line 7
+[07-May-2024 21:31:29 Asia/Manila] PHP Warning:  Undefined array key "ingredients" in /home2/xsmdaevu/public_html/admin/api_dishcovery/add_recipe.php on line 8
+[07-May-2024 21:31:29 Asia/Manila] PHP Warning:  Undefined array key "instructions" in /home2/xsmdaevu/public_html/admin/api_dishcovery/add_recipe.php on line 9
+[07-May-2024 13:35:35 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/api_dishcovery/fetch_joined_groups.php on line 5
+[07-May-2024 13:35:35 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/api_dishcovery/fetch_bookmarks.php on line 8
+[07-May-2024 13:35:35 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/api_dishcovery/fetch_my_recipes.php on line 8
+[07-May-2024 13:35:35 UTC] PHP Warning:  Undefined array key "email" in /home2/xsmdaevu/public_html/admin/api_dishcovery/fetch_joined_groups.php on line 5
